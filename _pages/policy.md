@@ -39,7 +39,17 @@ nav_order: 5
 
   * Late assignments will be penalized 20% per day (including weekends and holidays) and no assignment will be accepted if it is more than 5 days late. 
 
-  * Late assignment penalty will be waived with a valid reason. 
+  * Late assignment penalty will be waived with a valid reason.
+
+* Use of Generative Artificial Intelligence
+  
+  * The use of generative AI tools or apps for assignments in this course, including tools like ChatGPT and other AI writing or coding assistants, is prohibited.
+  
+  * Representing as one’s own an idea, or expression of an idea, that was AI-generated may be considered an academic offense in this course.
+  
+  * Students may not copy or paraphrase from any generative artificial intelligence applications, including ChatGPT and other AI writing and coding assistants, for the purpose of completing assignments in this course.
+  
+  * This course policy is designed to promote your learning and intellectual development and to help you reach course learning outcomes. 
 
 * Collaboration on assignments 
   

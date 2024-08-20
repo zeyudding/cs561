@@ -2,7 +2,7 @@
 layout: about
 title: Course
 permalink: /
-subtitle: Fall 2022
+subtitle: Fall 2024
 # <a href='https://www.binghamton.edu/computer-science/index.html'>Department of Computer Science</a>. Address. Contacts. Moto. Etc. https://www.binghamton.edu/watson/ https://www.binghamton.edu/watson/ https://www.binghamton.edu/watson/
 
 # profile:
@@ -25,14 +25,14 @@ This course will explore both threats to privacy and solutions to the data priva
 
 
 * Class Time: T&R 2:50 – 4:15 PM
-* Location: Science Library (SL) 310
+* Location: Library North 1120
 * Instructor: [Zeyu Ding](https://zeyuding.com)
   * Email: dding1@binghamton.edu	  
   * Office: EB N34
-  * Office hours: M&W 3:00 – 4:00 PM or by appointment
+  * Office hours: Wed 1:00 – 3:00 PM or by appointment
 
-* Grader: Lata Sagnali
-  * Email:  lsagnal1@binghamton.edu
+* TA: TBA
+  * Email:  TBA
 
 
 ---
@@ -71,7 +71,7 @@ By the end of this course, you will be able to:
     * [The Complexity of Differential Privacy](https://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf), by S. Vadhan, 2017
         * Another textbook on differential privacy, with emphasis on computational aspects
 * Lecture notes and supplemental materials
-    * Lecture notes for each chapter, in PowerPoint format, as well as some relevant supplemental materials will be posted on [Brightspace](https://brightspace.binghamton.edu/) before lectures. Lecture notes do not substitute for class attendance, since (i) they do not contain all the details in terms of explanations and analyses and (ii) significant parts of lectures, including discussions and presentations, may not come from the lecture notes
+    * Lecture notes for each chapter, in PDF format, as well as some relevant supplemental materials will be posted on [Brightspace](https://brightspace.binghamton.edu/) before lectures. Lecture notes do not substitute for class attendance, since (i) they do not contain all the details in terms of explanations and analyses and (ii) significant parts of lectures, including discussions and presentations, may not come from the lecture notes
 * Additional materials will be added as appropriate
 
 

@@ -1,4 +1,4 @@
-# CS561: Topics in Data Privacy
+# CS 480/580T: Topics in Data Privacy
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->

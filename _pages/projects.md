@@ -9,7 +9,7 @@ nav_order: 6
 
 ---
 
-**Click [here](https://docs.google.com/spreadsheets/d/1Sbka2ssnBmBA_SFjplAI-KE0fgwbwO5Ne5832naLMus/edit?usp=sharing) to register your team with a tentative title, and submit your final report on [Brightspace](https://brightspace.binghamton.edu/)**
+**Click [here](https://docs.google.com/spreadsheets/d/1cNNmNkaeo9mUUlXlblIyffx3kAAHcUHF-0qn8epRqbo/edit?usp=sharing) to register your team with a tentative title, and submit your final report on [Brightspace](https://brightspace.binghamton.edu/)**
 
 ---
 
