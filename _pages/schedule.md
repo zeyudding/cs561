@@ -95,7 +95,7 @@ nav_order: 3
     <tr>
         <td align="center">W5, 09/16 - 09/20</td>
         <td>Intro to Differential Privacy (DP)</td>
-        <td>DP Mechanisms</td>
+        <td>Intro to DP</td>
         <td style='font-size:80%'>
         <ul>
         <li><a href="https://people.csail.mit.edu/asmith/PS/sensitivity-tcc-final.pdf">Calibrating Noise to Sensitivity in Private Data Analysis</a></li>
@@ -106,8 +106,8 @@ nav_order: 3
     </tr>
     <tr>
         <td align="center">W6, 09/23 - 09/27</td>
-        <td>More DP Mechanisms</td>
-        <td>More DP Mechanisms</td>
+        <td>DP Mechanisms</td>
+        <td>DP Mechanisms</td>
         <td style='font-size:80%'>
         <ul>
         <li><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2012/10/lsbs.pdf">On Significance of the Least Significant Bits For Differential Privacy</a></li>
@@ -138,7 +138,7 @@ nav_order: 3
     <tr>
         <td align="center">W8, 10/07 - 10/11</td>
         <td>No Class (Friday classes meet)</td>
-        <td>Presentation</td>
+        <td>More DP Mechanisms</td>
         <td style='font-size:80%'>
         <ul>
         </ul>
@@ -146,8 +146,8 @@ nav_order: 3
     </tr>
     <tr>
         <td align="center">W9, 10/14 - 10/18</td>
-        <td>Presentation</td>
-        <td>Presentation</td>
+        <td>More DP Mechanisms</td>
+        <td>Privacy Preserving Machine Learning</td>
         <td style='font-size:80%'>
         <ul>
         </ul>
@@ -164,8 +164,8 @@ nav_order: 3
     </tr>
     <tr>
         <td align="center">W11, 10/28 - 11/01</td>
-        <td>Additional Topics in DP</td>
-        <td>Additional Topics in DP</td>
+        <td>Presentation</td>
+        <td>Presentation</td>
         <td style='font-size:80%'>
         <ul>
         </ul>
