@@ -28,7 +28,7 @@ number (N) of team members:
 
 * For application projects, the number of algorithms implemented is N+1.
 
-* For survey projects, the number of papers to be surveyed is 8*N+2.
+* For survey projects, the number of papers to be surveyed is 7*N+1.
 
 Students in a group will be given the same grade. There is no preference from my side on the research format, topics, or whether you work individually or in a group.
 
